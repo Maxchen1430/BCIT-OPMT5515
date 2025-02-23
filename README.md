@@ -1,7 +1,7 @@
 # BCIT OPMT5515 - Quantitative Methods for Managers
 This repository includes the Project Files (two Excel files), Data Set, and Final Export of the report in HTML for the Final Project for BCIT's OPMT 5515 - Quantitative Methods for Managers.
 
-## Project Summary
+## BC Schools Satisfaction Survey 2012-2013 Data Set - Description
 This analysis features the satisfaction survey of BC students, parents, and teachers/faculty members in 2012-2013. The survey includes questions, such as "Do you like school?", "Bullied, teased or picked on at school?", "Students get physical exercise?", etc., and categorical answers, like "No Time," "Few Times," "Sometimes," and "Many." In addition, further information of the survey respondents is also attached, such as "School Age (3/4, 7, 10 or 12)", "Parents (Elementary or Secondary)", and "District (Vancouver, Burnaby or Richmond)". 
 
 ## Methodology
