@@ -6,4 +6,7 @@ This analysis features the satisfaction survey of BC students, parents, and teac
 
 ## Methodology
 Thanks to the breadth and depth of the survey, this data analysis incorporates both qualitative and quantitative elements, although leaning more so on the latter. The focus of this report is on exploring the correlation between different data entries using the **r value from regression analysis** to assess the strength of possible relationships. However, due to the opposing nature of some of the comparisons, some answers would feature **reversed responses within that category** as the X/Y values to formulate a proper correlation analysis; if such method is used, it will be indicated in the written results. 
+
 Different visualizations were used, like bar and pie charts, to better illustrate the analytical results. Additional quantitative methods and components, like sampling variations, linear regression analysis, and column/scatter plot, were utilized in the compilation and presentation of this data analysis project. 
+
+Please download the HTML file to see the full report with all the data visualizations and written conclusions.
